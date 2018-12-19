@@ -1,0 +1,776 @@
+Texto,Nacimientos,Defunciones,Crecimiento Natural
+Abla,7,12,-5
+Abrucena,6,16,-10
+Adra,258,182,76
+Albánchez,1,8,-7
+Alboloduy,2,7,-5
+Albox,99,105,-6
+Alcolea,4,10,-6
+Alcóntar,2,13,-11
+Alhabia,4,8,-4
+Alhama de Almería,33,37,-4
+Alicún,0,1,-1
+Almería ,2064,1603,461
+Almócita,1,4,-3
+Alsodux,0,1,-1
+Antas,33,31,2
+Arboleas,14,50,-36
+Armuña de Almanzora,0,6,-6
+Bacares,1,8,-7
+Bayárcal,1,4,-3
+Bayarque,0,5,-5
+Bédar,4,11,-7
+Beires,0,1,-1
+Benahadux,50,23,27
+Benizalón,0,4,-4
+Bentarique,2,4,-2
+Berja,117,107,10
+Canjáyar,1,20,-19
+Cantoria,22,56,-34
+Carboneras,73,60,13
+Castro de Filabres,0,2,-2
+Chercos,2,7,-5
+Chirivel,8,38,-30
+Cóbdar,1,2,-1
+Cuevas del Almanzora,166,115,51
+Dalías,40,48,-8
+Ejido (El),1156,389,767
+Enix,3,4,-1
+Felix,2,9,-7
+Fines,16,18,-2
+Fiñana,13,27,-14
+Fondón,7,21,-14
+Gádor,35,27,8
+Gallardos (Los),28,33,-5
+Garrucha,92,57,35
+Gérgal,11,13,-2
+Huécija,4,4,0
+Huércal de Almería,195,50,145
+Huércal-Overa,215,182,33
+Illar,1,7,-6
+Instinción,1,8,-7
+Láujar de Andarax,6,25,-19
+Líjar,1,3,-2
+Lubrín,4,27,-23
+Lucainena de las Torres,1,11,-10
+Lúcar,4,10,-6
+Macael,45,49,-4
+María,4,18,-14
+Mojácar,36,51,-15
+Mojonera (La),120,30,90
+Nacimiento,1,8,-7
+Níjar,442,174,268
+Ohanes,2,10,-8
+Olula de Castro,0,2,-2
+Olula del Río,47,56,-9
+Oria,9,38,-29
+Padules,2,13,-11
+Partaloa,2,10,-8
+Paterna del Río,1,3,-2
+Pechina,58,23,35
+Pulpí,105,76,29
+Purchena,9,30,-21
+Rágol,0,4,-4
+Rioja,14,12,2
+Roquetas de Mar,1097,388,709
+Santa Cruz de Marchena,0,4,-4
+Santa Fe de Mondújar,1,8,-7
+Senés,1,7,-6
+Serón,9,39,-30
+Sierro,1,3,-2
+Somontín,1,5,-4
+Sorbas,13,29,-16
+Suflí,0,3,-3
+Tabernas,46,33,13
+Taberno,4,12,-8
+Tahal,3,3,0
+Terque,4,5,-1
+Tíjola,23,45,-22
+Tres Villas (Las),2,9,-7
+Turre,26,36,-10
+Turrillas,0,3,-3
+Uleila del Campo,5,14,-9
+Urrácal,1,1,0
+Velefique,0,5,-5
+Vélez-Blanco,4,26,-22
+Vélez-Rubio,42,101,-59
+Vera,141,88,53
+Viator,66,33,33
+Vícar,320,106,214
+Zurgena,18,41,-23
+Balanegra,26,18,8
+Alcalá de los Gazules,46,43,3
+Alcalá del Valle,36,31,5
+Algar,8,28,-20
+Algeciras,1213,928,285
+Algodonales,49,73,-24
+Arcos de la Frontera,232,221,11
+Barbate,179,199,-20
+Barrios (Los),227,177,50
+Benalup-Casas Viejas,71,45,26
+Benaocaz,3,6,-3
+Bornos,61,77,-16
+Bosque (El),12,23,-11
+Cádiz ,765,1296,-531
+Castellar de la Frontera,24,19,5
+Chiclana de la Frontera,788,524,264
+Chipiona,178,143,35
+Conil de la Frontera,239,134,105
+Espera,37,34,3
+Gastor (El),19,17,2
+Grazalema,12,28,-16
+Jerez de la Frontera,1809,1626,183
+Jimena de la Frontera,75,102,-27
+Línea de la Concepción (La),639,575,64
+Medina-Sidonia,102,104,-2
+Olvera,76,99,-23
+Paterna de Rivera,39,36,3
+Prado del Rey,32,59,-27
+Puerto de Santa María (El),771,617,154
+Puerto Real,341,271,70
+Puerto Serrano,68,58,10
+Rota,275,227,48
+San Fernando,657,746,-89
+San José del Valle,24,38,-14
+San Roque,302,243,59
+Sanlúcar de Barrameda,724,507,217
+Setenil de las Bodegas,25,32,-7
+Tarifa,152,157,-5
+Torre Alháquime,11,10,1
+Trebujena,61,55,6
+Ubrique,130,158,-28
+Vejer de la Frontera,131,109,22
+Villaluenga del Rosario,3,1,2
+Villamartín,122,106,16
+Zahara,10,25,-15
+Adamuz,31,40,-9
+Aguilar de la Frontera,124,140,-16
+Alcaracejos,7,27,-20
+Almedinilla,14,42,-28
+Almodóvar del Río,63,69,-6
+Añora,14,18,-4
+Baena,171,187,-16
+Belalcázar,23,57,-34
+Belmez,25,53,-28
+Benamejí,36,51,-15
+Blázquez (Los),3,9,-6
+Bujalance,61,90,-29
+Cabra,138,239,-101
+Cañete de las Torres,29,35,-6
+Carcabuey,16,20,-4
+Cardeña,10,23,-13
+Carlota (La),150,112,38
+Carpio (El),37,46,-9
+Castro del Río,60,106,-46
+Conquista,1,10,-9
+Córdoba ,2700,2960,-260
+Doña Mencía,36,58,-22
+Dos Torres,22,29,-7
+Encinas Reales,17,32,-15
+Espejo,21,48,-27
+Espiel,12,60,-48
+Fernán-Núñez,87,79,8
+Fuente la Lancha,3,4,-1
+Fuente Obejuna,26,63,-37
+Fuente Palmera,105,97,8
+Fuente-Tójar,6,14,-8
+Granjuela (La),1,6,-5
+Guadalcázar,10,16,-6
+Guijo (El),1,2,-1
+Hinojosa del Duque,64,92,-28
+Hornachuelos,30,51,-21
+Iznájar,28,48,-20
+Lucena,411,342,69
+Luque,24,46,-22
+Montalbán de Córdoba,50,55,-5
+Montemayor,42,41,1
+Montilla,150,248,-98
+Montoro,92,100,-8
+Monturque,15,24,-9
+Moriles,26,48,-22
+Nueva Carteya,43,63,-20
+Obejo,14,11,3
+Palenciana,8,23,-15
+Palma del Río,175,149,26
+Pedro Abad,19,36,-17
+Pedroche,7,36,-29
+Peñarroya-Pueblonuevo,80,133,-53
+Posadas,72,69,3
+Pozoblanco,152,135,17
+Priego de Córdoba,187,233,-46
+Puente Genil,259,273,-14
+Rambla (La),60,72,-12
+Rute,69,118,-49
+San Sebastián de los Ballesteros,3,11,-8
+Santa Eufemia,3,19,-16
+Santaella,70,54,16
+Torrecampo,3,30,-27
+Valenzuela,7,15,-8
+Valsequillo,3,10,-7
+Victoria (La),18,20,-2
+Villa del Río,68,97,-29
+Villafranca de Córdoba,45,42,3
+Villaharta,3,12,-9
+Villanueva de Córdoba,61,131,-70
+Villanueva del Duque,6,31,-25
+Villanueva del Rey,14,16,-2
+Villaralto,5,20,-15
+Villaviciosa de Córdoba,27,37,-10
+Viso (El),20,31,-11
+Zuheros,4,9,-5
+Agrón,3,4,-1
+Alamedilla,2,5,-3
+Albolote,141,105,36
+Albondón,4,12,-8
+Albuñán,2,3,-1
+Albuñol,92,69,23
+Albuñuelas,7,15,-8
+Aldeire,4,8,-4
+Alfacar,48,34,14
+Algarinejo,8,49,-41
+Alhama de Granada,46,51,-5
+Alhendín,137,46,91
+Alicún de Ortega,2,13,-11
+Almegíjar,0,10,-10
+Almuñécar,186,242,-56
+Alpujarra de la Sierra,7,9,-2
+Alquife,5,14,-9
+Arenas del Rey,5,22,-17
+Armilla,232,150,82
+Atarfe,233,127,106
+Baza,182,212,-30
+Beas de Granada,4,12,-8
+Beas de Guadix,2,1,1
+Benalúa,36,26,10
+Benalúa de las Villas,0,20,-20
+Benamaurel,15,24,-9
+Bérchules,2,6,-4
+Bubión,1,5,-4
+Busquístar,2,4,-2
+Cacín,2,7,-5
+Cádiar,7,22,-15
+Cájar,37,47,-10
+Calahorra (La),3,12,-9
+Calicasas,7,6,1
+Campotéjar,8,14,-6
+Caniles,29,59,-30
+Cáñar,3,4,-1
+Capileira,3,2,1
+Carataunas,1,3,-2
+Cástaras,0,7,-7
+Castilléjar,4,24,-20
+Castril,10,33,-23
+Cenes de la Vega,58,32,26
+Chauchina,46,42,4
+Chimeneas,7,23,-16
+Churriana de la Vega,172,80,92
+Cijuela,46,21,25
+Cogollos de Guadix,6,4,2
+Cogollos de la Vega,16,34,-18
+Colomera,4,10,-6
+Cortes de Baza,8,35,-27
+Cortes y Graena,2,7,-5
+Cuevas del Campo,9,20,-11
+Cúllar,25,57,-32
+Cúllar Vega,63,46,17
+Darro,26,13,13
+Dehesas de Guadix,7,5,2
+Deifontes,26,16,10
+Diezma,6,10,-4
+Dílar,16,18,-2
+Dólar,4,7,-3
+Dúdar,0,3,-3
+Dúrcal,51,74,-23
+Escúzar,1,12,-11
+Ferreira,1,5,-4
+Fonelas,10,10,0
+Freila,4,15,-11
+Fuente Vaqueros,51,46,5
+Gabias (Las),266,86,180
+Galera,6,26,-20
+Gobernador,1,2,-1
+Gójar,34,37,-3
+Gor,2,13,-11
+Gorafe,3,5,-2
+Granada ,2046,2343,-297
+Guadahortuna,21,19,2
+Guadix,157,179,-22
+Guajares (Los),6,16,-10
+Gualchos,50,43,7
+Güejar Sierra,23,25,-2
+Güevéjar,25,17,8
+Huélago,1,3,-2
+Huéneja,6,16,-10
+Huéscar,44,120,-76
+Huétor de Santillán,8,15,-7
+Huétor Tájar,101,100,1
+Huétor Vega,86,60,26
+Illora,58,124,-66
+Itrabo,11,14,-3
+Iznalloz,65,48,17
+Jayena,11,8,3
+Jerez del Marquesado,6,13,-7
+Jete,6,4,2
+Jun,40,14,26
+Juviles,1,3,-2
+Láchar,40,23,17
+Lanjarón,25,42,-17
+Lanteira,2,8,-6
+Lecrín,9,35,-26
+Lentegí,6,2,4
+Lobras,1,7,-6
+Loja,197,194,3
+Lugros,3,5,-2
+Lújar,1,5,-4
+Malahá (La),18,14,4
+Maracena,187,135,52
+Marchal,4,4,0
+Moclín,19,52,-33
+Molvízar,30,26,4
+Monachil,70,46,24
+Montefrío,30,59,-29
+Montejícar,12,19,-7
+Montillana,7,19,-12
+Moraleda de Zafayona,23,29,-6
+Morelábor,4,16,-12
+Motril,544,442,102
+Murtas,3,4,-1
+Nevada,5,18,-13
+Nigüelas,12,12,0
+Nívar,13,4,9
+Ogíjares,97,58,39
+Orce,11,15,-4
+Órgiva,48,57,-9
+Otívar,6,11,-5
+Otura,49,41,8
+Padul,86,74,12
+Pampaneira,4,0,4
+Pedro Martínez,10,29,-19
+Peligros,118,82,36
+Peza (La),6,13,-7
+Pinar (El),4,5,-1
+Pinos Genil,9,11,-2
+Pinos Puente,83,113,-30
+Píñar,7,15,-8
+Polícar,0,3,-3
+Polopos,25,12,13
+Pórtugos,0,7,-7
+Puebla de Don Fadrique,17,33,-16
+Pulianas,48,27,21
+Purullena,30,23,7
+Quéntar,4,11,-7
+Rubite,0,6,-6
+Salar,24,38,-14
+Salobreña,84,117,-33
+Santa Cruz del Comercio,1,5,-4
+Santa Fe,134,117,17
+Soportújar,1,2,-1
+Sorvilán,6,8,-2
+Taha (La),5,3,2
+Torre-Cardela,5,13,-8
+Torvizcón,8,10,-2
+Trevélez,4,10,-6
+Turón,1,1,0
+Ugíjar,24,39,-15
+Valderrubio,21,14,7
+Valle (El),3,14,-11
+Valle del Zalabí,19,26,-7
+Válor,6,17,-11
+Vegas del Genil,127,48,79
+Vélez de Benaudalla,21,23,-2
+Ventas de Huelma,4,9,-5
+Villamena,10,13,-3
+Villanueva de las Torres,1,13,-12
+Villanueva Mesía,22,16,6
+Víznar,8,8,0
+Zafarraya,24,21,3
+Zagra,6,6,0
+Zubia (La),166,127,39
+Zújar,18,35,-17
+Dehesas Viejas,5,4,1
+Játar,0,10,-10
+Domingo Pérez de Granada,12,15,-3
+Alájar,2,7,-5
+Aljaraque,194,81,113
+Almendro (El),8,10,-2
+Almonaster la Real,13,25,-12
+Almonte,246,153,93
+Alosno,24,65,-41
+Aracena,69,80,-11
+Aroche,29,41,-12
+Arroyomolinos de León,1,6,-5
+Ayamonte,175,166,9
+Beas,35,31,4
+Berrocal,3,11,-8
+Bollullos Par del Condado,156,125,31
+Bonares,48,38,10
+Cabezas Rubias,5,17,-12
+Cala,7,12,-5
+Calañas,28,55,-27
+Campillo (El),16,33,-17
+Campofrío,7,4,3
+Cañaveral de León,1,7,-6
+Cartaya,241,104,137
+Castaño del Robledo,0,2,-2
+Cerro de Andévalo (El),25,37,-12
+Chucena,14,33,-19
+Corteconcepción,5,6,-1
+Cortegana,41,42,-1
+Cortelazor,0,7,-7
+Cumbres de Enmedio,0,1,-1
+Cumbres de San Bartolomé,1,7,-6
+Cumbres Mayores,15,30,-15
+Encinasola,8,15,-7
+Escacena del Campo,18,31,-13
+Fuenteheridos,7,9,-2
+Galaroza,6,16,-10
+Gibraleón,95,102,-7
+Granada de Río-Tinto (La),1,4,-3
+Granado (El),3,5,-2
+Higuera de la Sierra,11,20,-9
+Hinojales,0,2,-2
+Hinojos,31,51,-20
+Huelva ,1185,1258,-73
+Isla Cristina,167,156,11
+Jabugo,25,20,5
+Lepe,261,153,108
+Linares de la Sierra,0,2,-2
+Lucena del Puerto,44,19,25
+Manzanilla,0,25,-25
+Marines (Los),1,8,-7
+Minas de Riotinto,32,44,-12
+Moguer,213,132,81
+Nava (La),0,3,-3
+Nerva,54,96,-42
+Niebla,56,43,13
+Palma del Condado (La),106,103,3
+Palos de la Frontera,163,63,100
+Paterna del Campo,18,34,-16
+Paymogo,11,18,-7
+Puebla de Guzmán,41,43,-2
+Puerto Moral,4,2,2
+Punta Umbría,142,105,37
+Rociana del Condado,93,56,37
+Rosal de la Frontera,11,13,-2
+San Bartolomé de la Torre,41,30,11
+San Juan del Puerto,80,60,20
+San Silvestre de Guzmán,5,8,-3
+Sanlúcar de Guadiana,2,6,-4
+Santa Ana la Real,3,7,-4
+Santa Bárbara de Casa,0,17,-17
+Santa Olalla del Cala,10,20,-10
+Trigueros,74,73,1
+Valdelarco,0,4,-4
+Valverde del Camino,118,136,-18
+Villablanca,27,22,5
+Villalba del Alcor,23,42,-19
+Villanueva de las Cruces,4,3,1
+Villanueva de los Castillejos,23,29,-6
+Villarrasa,10,20,-10
+Zalamea la Real,30,52,-22
+Zufre,7,8,-1
+Albanchez de Mágina,5,22,-17
+Alcalá la Real,157,236,-79
+Alcaudete,66,142,-76
+Aldeaquemada,2,6,-4
+Andújar,275,346,-71
+Arjona,34,59,-25
+Arjonilla,24,40,-16
+Arquillos,16,25,-9
+Arroyo del Ojanco,8,22,-14
+Baeza,147,156,-9
+Bailén,154,154,0
+Baños de la Encina,14,26,-12
+Beas de Segura,39,64,-25
+Bedmar y Garcíez,8,51,-43
+Begíjar,13,23,-10
+Bélmez de la Moraleda,5,21,-16
+Benatae,2,4,-2
+Cabra del Santo Cristo,9,14,-5
+Cambil,23,45,-22
+Campillo de Arenas,11,19,-8
+Canena,7,22,-15
+Carboneros,1,9,-8
+Cárcheles,6,17,-11
+Carolina (La),114,151,-37
+Castellar,22,46,-24
+Castillo de Locubín,22,53,-31
+Cazalilla,2,13,-11
+Cazorla,52,62,-10
+Chiclana de Segura,8,17,-9
+Chilluévar,10,27,-17
+Escañuela,4,8,-4
+Espelúy,3,9,-6
+Frailes,6,20,-14
+Fuensanta de Martos,24,32,-8
+Fuerte del Rey,14,13,1
+Génave,4,7,-3
+Guardia de Jaén (La),39,27,12
+Guarromán,23,37,-14
+Higuera de Calatrava,4,6,-2
+Hinojares,3,4,-1
+Hornos,3,7,-4
+Huelma,42,74,-32
+Huesa,31,32,-1
+Ibros,21,35,-14
+Iruela (La),15,17,-2
+Iznatoraf,7,7,0
+Jabalquinto,15,21,-6
+Jaén ,922,993,-71
+Jamilena,19,38,-19
+Jimena,7,21,-14
+Jódar,96,99,-3
+Lahiguera,15,17,-2
+Larva,3,3,0
+Linares,468,558,-90
+Lopera,31,50,-19
+Lupión,5,19,-14
+Mancha Real,119,102,17
+Marmolejo,52,73,-21
+Martos,210,243,-33
+Mengíbar,97,81,16
+Montizón,16,23,-7
+Navas de San Juan,38,52,-14
+Noalejo,11,24,-13
+Orcera,16,30,-14
+Peal de Becerro,44,50,-6
+Pegalajar,27,32,-5
+Porcuna,34,86,-52
+Pozo Alcón,32,64,-32
+Puente de Génave,17,22,-5
+Puerta de Segura (La),14,39,-25
+Quesada,27,67,-40
+Rus,23,38,-15
+Sabiote,22,62,-40
+Santa Elena,11,8,3
+Santiago de Calatrava,3,15,-12
+Santiago-Pontones,18,48,-30
+Santisteban del Puerto,38,47,-9
+Santo Tomé,13,40,-27
+Segura de la Sierra,11,21,-10
+Siles,17,32,-15
+Sorihuela del Guadalimar,5,20,-15
+Torre del Campo,97,127,-30
+Torreblascopedro,12,33,-21
+Torredonjimeno,133,158,-25
+Torreperogil,42,110,-68
+Torres,5,24,-19
+Torres de Albánchez,5,14,-9
+Úbeda,267,310,-43
+Valdepeñas de Jaén,25,46,-21
+Vilches,23,40,-17
+Villacarrillo,87,121,-34
+Villanueva de la Reina,31,41,-10
+Villanueva del Arzobispo,75,82,-7
+Villardompardo,5,22,-17
+Villares (Los),55,51,4
+Villarrodrigo,0,10,-10
+Villatorres,43,51,-8
+Alameda,54,44,10
+Alcaucín,10,33,-23
+Alfarnate,3,8,-5
+Alfarnatejo,4,5,-1
+Algarrobo,45,57,-12
+Algatocín,5,9,-4
+Alhaurín de la Torre,363,236,127
+Alhaurín el Grande,249,166,83
+Almáchar,15,27,-12
+Almargen,11,30,-19
+Almogía,27,26,1
+Álora,94,141,-47
+Alozaina,11,22,-11
+Alpandeire,2,4,-2
+Antequera,334,330,4
+Árchez,0,6,-6
+Archidona,59,106,-47
+Ardales,30,25,5
+Arenas,10,14,-4
+Arriate,32,50,-18
+Atajate,1,3,-2
+Benadalid,2,6,-4
+Benahavís,46,17,29
+Benalauría,1,9,-8
+Benalmádena,627,428,199
+Benamargosa,11,21,-10
+Benamocarra,32,26,6
+Benaoján,13,15,-2
+Benarrabá,2,8,-6
+Borge (El),5,8,-3
+Burgo (El),18,22,-4
+Campillos,73,68,5
+Canillas de Aceituno,15,27,-12
+Canillas de Albaida,1,5,-4
+Cañete la Real,6,25,-19
+Carratraca,10,6,4
+Cartajima,1,4,-3
+Cártama,264,158,106
+Casabermeja,19,27,-8
+Casarabonela,15,35,-20
+Casares,67,34,33
+Coín,237,174,63
+Colmenar,29,35,-6
+Comares,5,26,-21
+Cómpeta,9,18,-9
+Cortes de la Frontera,15,42,-27
+Cuevas Bajas,10,21,-11
+Cuevas de San Marcos,33,50,-17
+Cuevas del Becerro,9,25,-16
+Cútar,3,6,-3
+Estepona,603,470,133
+Faraján,1,6,-5
+Frigiliana,34,31,3
+Fuengirola,584,569,15
+Fuente de Piedra,21,23,-2
+Gaucín,16,17,-1
+Genalguacil,0,6,-6
+Guaro,18,33,-15
+Humilladero,21,34,-13
+Igualeja,4,10,-6
+Istán,16,17,-1
+Iznate,3,8,-5
+Jimera de Líbar,1,10,-9
+Jubrique,1,8,-7
+Júzcar,1,4,-3
+Macharaviaya,6,6,0
+Málaga ,5181,4809,372
+Manilva,156,79,77
+Marbella,1259,816,443
+Mijas,766,384,382
+Moclinejo,9,5,4
+Mollina,37,61,-24
+Monda,20,18,2
+Montecorto,3,8,-5
+Montejaque,7,9,-2
+Nerja,136,186,-50
+Ojén,27,23,4
+Parauta,0,2,-2
+Periana,18,52,-34
+Pizarra,84,85,-1
+Pujerra,0,3,-3
+Rincón de la Victoria,438,255,183
+Riogordo,23,31,-8
+Ronda,257,304,-47
+Salares,0,2,-2
+Sayalonga,11,9,2
+Sedella,7,9,-2
+Serrato,2,7,-5
+Sierra de Yeguas,29,37,-8
+Teba,39,44,-5
+Tolox,18,27,-9
+Torremolinos,516,427,89
+Torrox,145,153,-8
+Totalán,11,9,2
+Valle de Abdalajís,24,39,-15
+Vélez-Málaga,756,645,111
+Villanueva de Algaidas,39,46,-7
+Villanueva de la Concepción,21,34,-13
+Villanueva de Tapia,5,21,-16
+Villanueva del Rosario,34,25,9
+Villanueva del Trabuco,40,58,-18
+Viñuela,11,15,-4
+Yunquera,26,31,-5
+Aguadulce,20,30,-10
+Alanís,15,32,-17
+Albaida del Aljarafe,30,23,7
+Alcalá de Guadaíra,666,512,154
+Alcalá del Río,133,81,52
+Alcolea del Río,29,32,-3
+Algaba (La),197,126,71
+Algámitas,5,29,-24
+Almadén de la Plata,13,15,-2
+Almensilla,60,32,28
+Arahal,195,164,31
+Aznalcázar,55,36,19
+Aznalcóllar,60,49,11
+Badolatosa,35,35,0
+Benacazón,75,31,44
+Bollullos de la Mitación,125,74,51
+Bormujos,229,95,134
+Brenes,132,103,29
+Burguillos,76,38,38
+Cabezas de San Juan (Las),177,145,32
+Camas,275,228,47
+Campana (La),34,71,-37
+Cantillana,98,94,4
+Cañada Rosal,26,40,-14
+Carmona,220,289,-69
+Carrión de los Céspedes,18,42,-24
+Casariche,43,48,-5
+Castilblanco de los Arroyos,40,55,-15
+Castilleja de Guzmán,10,14,-4
+Castilleja de la Cuesta,149,128,21
+Castilleja del Campo,9,7,2
+Castillo de las Guardas (El),12,31,-19
+Cazalla de la Sierra,38,56,-18
+Constantina,52,84,-32
+Coria del Río,329,220,109
+Coripe,6,24,-18
+Coronil (El),41,69,-28
+Corrales (Los),44,32,12
+Cuervo de Sevilla (El),76,64,12
+Dos Hermanas,1277,832,445
+Écija,346,351,-5
+Espartinas,155,79,76
+Estepa,109,84,25
+Fuentes de Andalucía,59,75,-16
+Garrobo (El),6,5,1
+Gelves,91,55,36
+Gerena,75,61,14
+Gilena,29,35,-6
+Gines,84,71,13
+Guadalcanal,15,49,-34
+Guillena,139,92,47
+Herrera,56,63,-7
+Huévar del Aljarafe,30,14,16
+Isla Mayor,54,43,11
+Lantejuela (La),43,33,10
+Lebrija,268,187,81
+Lora de Estepa,3,13,-10
+Lora del Río,175,164,11
+Luisiana (La),43,36,7
+Madroño (El),3,8,-5
+Mairena del Alcor,248,172,76
+Mairena del Aljarafe,502,267,235
+Marchena,207,181,26
+Marinaleda,21,39,-18
+Martín de la Jara,23,40,-17
+Molares (Los),38,23,15
+Montellano,64,72,-8
+Morón de la Frontera,230,269,-39
+Navas de la Concepción (Las),17,25,-8
+Olivares,89,83,6
+Osuna,153,173,-20
+Palacios y Villafranca (Los),371,280,91
+Palomares del Río,81,51,30
+Paradas,65,76,-11
+Pedrera,56,46,10
+Pedroso (El),17,15,2
+Peñaflor,38,35,3
+Pilas,128,123,5
+Pruna,19,38,-19
+Puebla de Cazalla (La),114,111,3
+Puebla de los Infantes (La),23,37,-14
+Puebla del Río (La),100,111,-11
+Real de la Jara (El),10,22,-12
+Rinconada (La),312,212,100
+Roda de Andalucía (La),36,44,-8
+Ronquillo (El),6,15,-9
+Rubio (El),40,49,-9
+Salteras,39,33,6
+San Juan de Aznalfarache,212,208,4
+San Nicolás del Puerto,6,3,3
+Sanlúcar la Mayor,126,107,19
+Santiponce,78,57,21
+Saucejo (El),42,48,-6
+Sevilla ,6141,6439,-298
+Tocina,94,105,-11
+Tomares,225,115,110
+Umbrete,86,51,35
+Utrera,485,397,88
+Valencina de la Concepción,46,54,-8
+Villamanrique de la Condesa,46,38,8
+Villanueva de San Juan,4,15,-11
+Villanueva del Ariscal,44,54,-10
+Villanueva del Río y Minas,39,67,-28
+Villaverde del Río,80,59,21
+Viso del Alcor (El),176,140,36
