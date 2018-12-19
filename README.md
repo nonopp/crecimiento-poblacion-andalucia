@@ -16,4 +16,6 @@ En tableau trabajé siguiendo estos pasos:
 En medidas arrastré "Crecimiento Natural a Dimensiones" y la volví a arrastrar a colores.
 Edité los colores de discreto a continuo en un rango de 10 pasos, en una gama de rojos para pérdida de población y verde para ganancia.
 Arrastré Texto (los nombres de los municipios a Texto) municipio a Detalles, cabiando el nombre a Municipio.
-También lo añadí a filtro con la opción de "Mostrar resaltador" edité también a nombre de "Municipio"
+También lo añadí a filtro con la opción de "Mostrar resaltador" edité también a nombre de "Municipio".
+
+Nota divulgativa: http://www.juntadeandalucia.es/institutodeestadisticaycartografia/ema/notaprensa_anual.htm
